@@ -8,16 +8,17 @@ body{
     padding-left:5%; */
 }
 .context{
-    font-size:0.7vw;
+    font-size:15px;
 }
 .b-link{
     padding-top:10%;
-    padding-left:40%;
+    padding-left:34.5%;
     color:white;
 }
 .img-yc{
-    padding-left:33%;
-    padding-top:5%;
+    padding-left:30%;
+    padding-top:2%;
+    height:75%;
 }
 .ss{
     width:80%;
